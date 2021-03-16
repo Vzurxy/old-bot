@@ -1,0 +1,1 @@
+wt nodemon.cmd && redis-server ./redis.conf
